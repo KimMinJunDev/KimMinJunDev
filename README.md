@@ -33,5 +33,5 @@
 
     Serverless starting with AWS Lambda (for introduction to serverless architecture)
     
-    [https://github.com/bjpublic/aws_lambda](https://github.com/bjpublic/aws_lambda)
+    https://github.com/bjpublic/aws_lambda
 
