@@ -29,9 +29,9 @@
     
 <h3 align="left">📖 Professional book writing:</h3>
 
-[🇰🇷] AWS Lambda로 시작하는 서버리스 (서버리스 아키텍처 입문을 위한) (2020)
+    [🇰🇷] AWS Lambda로 시작하는 서버리스 (서버리스 아키텍처 입문을 위한) (2020)
 
-Serverless starting with AWS Lambda (for introduction to serverless architecture)
+    Serverless starting with AWS Lambda (for introduction to serverless architecture)
 
-http://www.yes24.com/Product/Goods/93982220
+    http://www.yes24.com/Product/Goods/93982220
 
