@@ -32,6 +32,6 @@
     [🇰🇷] AWS Lambda로 시작하는 서버리스 (서버리스 아키텍처 입문을 위한) (2020)
 
     Serverless starting with AWS Lambda (for introduction to serverless architecture)
-
-    https://github.com/bjpublic/aws_lambda
+    
+    [https://github.com/bjpublic/aws_lambda](https://github.com/bjpublic/aws_lambda)
 
