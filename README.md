@@ -33,5 +33,5 @@
 
     Serverless starting with AWS Lambda (for introduction to serverless architecture)
 
-    http://www.yes24.com/Product/Goods/93982220
+    https://github.com/bjpublic/aws_lambda
 
