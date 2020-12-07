@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kim Minjun</h1>
-<h3 align="center">🔥 A passionate Software Engineer from Korea republic of</h3>
+<h3 align="center">🔥 A passionate Software Engineer</h3>
+<h3 align="center">from Korea republic of</h3>
 
 - 📝 I regulary write articles on [https://kimminjun.dev](https://kimminjun.dev)
 
