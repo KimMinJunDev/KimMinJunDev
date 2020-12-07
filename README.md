@@ -19,7 +19,7 @@
 <h3 align="left">⚙️ Tech Stack:</h3>
 
 
-    💻 C#, VB, Python, Javascript, Calssic ASP
+    💻 C#, VB, Python, JavaScript, Calssic ASP
 
     🛠️ Dotnet Freamework (ASP.NET)
 
