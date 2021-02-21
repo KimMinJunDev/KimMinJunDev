@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **supremejoon@daum.net**
 
-- 💼 I work as a freelance back-end developer and architect.
+- 💼 I work as a back-end developer and architect.
 
 
 <h3 align="left">😁 Connect with me:</h3>
@@ -25,7 +25,7 @@
 
     🛢️  SQL Server (MS-SQL)
     
-    ☁️ AWS
+    ☁️ AWS, 
     
     
 <h3 align="left">📖 Professional book writing:</h3>
