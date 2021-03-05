@@ -25,7 +25,7 @@
 
     🛢️  SQL Server (MS-SQL)
     
-    ☁️ AWS, 
+    ☁️ AWS, Azure
     
     
 <h3 align="left">📖 Professional book writing:</h3>
