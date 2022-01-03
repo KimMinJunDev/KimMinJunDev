@@ -19,11 +19,11 @@
 <h3 align="left">⚙️ Tech Stack:</h3>
 
 
-    💻 C#, VB, Python, JS, Classic ASP
+    💻 C#, Nodejs, VB, Python, ASP
 
     🛠️ Dotnet Framework, Dotnet Core Framework
 
-    🛢️  SQL Server (MS-SQL), MySQL, PostgreSQL
+    🛢️  SQL Server (MS-SQL), MySQL, PostgreSQL, MariaDB
     
     ☁️ AWS, Azure
     
